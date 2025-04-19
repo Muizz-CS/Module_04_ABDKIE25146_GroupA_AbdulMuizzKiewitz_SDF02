@@ -8,10 +8,10 @@
 
   <h1>CodeSpace Cat's Portfolio</h1>
   <ul>
-    <li><a href="about-me">About Me</li></a>
-    <li><a href="my-skills">Skills</li></a>
-    <li><a href="Catfolio">Portfolio</li></a>
-    <li><a href="contact-me">Contact</li></a>
+    <li><a href="#about-me">About Me</li></a>
+    <li><a href="#my-skills">Skills</li></a>
+    <li><a href="#Catfolio">Portfolio</li></a>
+    <li><a href="#contact-me">Contact</li></a>
   </ul>
   <body>
     <h2 id="about-me">About me</h2>
